@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="700" src="https://raw.githubusercontent.com/gist/zeysert/bc8c0a4090c377a755dcc77bbeac66e4/raw/43f9b12677934c5d99499f6d9d574d30c86f979c/coding.gif"  />
+  <img height="300" src="https://raw.githubusercontent.com/gist/zeysert/bc8c0a4090c377a755dcc77bbeac66e4/raw/43f9b12677934c5d99499f6d9d574d30c86f979c/coding.gif"  />
 </div>
 
 ###
@@ -72,9 +72,3 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ilvgoor467fa5azamtu7srq5iy&count=10&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Wertualistic/Wertualistic/output/snake.svg" alt="Snake animation" />
-
-###
