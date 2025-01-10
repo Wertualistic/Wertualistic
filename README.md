@@ -9,7 +9,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Wertualistic" height="150" alt="stats graph"  />
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wertualistic&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Wertualistic&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Wertualistic&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
