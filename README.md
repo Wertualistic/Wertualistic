@@ -64,11 +64,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31ilvgoor467fa5azamtu7srq5iy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ilvgoor467fa5azamtu7srq5iy&count=10&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
