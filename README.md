@@ -1,5 +1,1 @@
-
-<div align="center">
-  <img height="300" src="https://raw.githubusercontent.com/poteto/poteto/refs/heads/master/nice.gif"  />
-</div>
-
+<img alt="You may have a screen reader, but you still got rick rolled. Yes, this is a gif of Rick Astley's famous &quot;Never Gonna Give You Up&quot;." src="https://github.com/poteto/poteto/blob/master/nice.gif?raw=true" width="100%">
